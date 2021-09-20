@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+    background: #9f9f9f;
+    padding: 10px;
+    
+}
+ h1{
+color:#ffff;  
+margin-right: 950px;
+margin-top: 10px;
+padding:10px;
+font-size: 40px;
+background-image: url(../imagenes/GaleriaGta/imagen1\ \(16\).jpg);
+
+}
+.contenedor{
+   
+    width: 1200px;
+    height: 1000px;
+    padding: 10px 10px;
+    margin-top:0px;
+    margin-right: 10px;
+}
+.cabecera{
+    background-image: url(../imagenes/Fondoborroso.jpg);
+    height: 150px;
+    width: 100%;
+}

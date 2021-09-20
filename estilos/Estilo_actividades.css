@@ -1,0 +1,49 @@
+.medio{
+   background-color: aliceblue; 
+   position: relative;
+}
+.actividades{
+  background-color: #70C3DC;  
+  margin-right: 60%;
+  position: relative;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+h2{
+    font-size: 30px;
+}
+.actividades h2{
+    color: darkorange;
+}
+.dia_de_eventos{
+    background-color: #CB93DE;
+    margin-right: 1%;
+    margin-left: 50%;
+    padding:5px 5px;
+    margin-top: -160px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    position: relative;
+}
+.dia_de_eventos h2{
+    color: #b9003e;
+    
+}
+.dias li{
+    color:#000000;
+    font-size: 20px;
+}
+section .textprin p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-left: 25px;
+}
+section .textsecun p{
+    margin-left: 50px;
+    color:#ff0000;
+    font-size: 15px;
+}
+section .actividades h2{
+    color: darkgreen;
+    font-size: 20px;
+}

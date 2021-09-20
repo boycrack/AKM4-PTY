@@ -1,0 +1,30 @@
+BOTONES
+--------------------------
+text-decoration:none; // quitar subrrayado a link
+-----------------------------------------------------------------------
+margin: //margen 4 puntos  
+-----------------------------------------------------------------------
+
+1   a:link //enlaces no vicitados
+
+2  hover // efecto cuando pasas el mouse
+---------------------------------------------------------------
+poner pading en la "a"
+----------------------------------------------------------------
+3  active // que pasa cuando le de click  
+
+4  vicited // enlaces vicitados
+
+display:inline-block; //hacer elementos en bloque (enlaces a)
+
+box-shadow: px px px px #color //aplicar sombra a elemento
+
+list-style:none //quitas punto antes de la lista
+
+display: inline-block; // poner los elementos 1 alado de otro
+----------------------------------------------------
+posicionamiento
+---------------------------------------------------
+1  position:relative; //posicionas caja dejando espacio vasio
+2  position:absolute //pocisiona hacia arriba y las demas cajas se recorren (no muy usada
+3  float: // se posicionan una alado de la otra

@@ -1,0 +1,10 @@
+.logo_1 img{
+    position: relative;
+    margin-left: 89%;
+    margin-right: 50px;
+    margin-top: -60px;
+}
+
+.logo_1 img:hover{
+    background-color: seagreen;
+}
